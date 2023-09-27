@@ -23,7 +23,7 @@ Put the data in **./dataset**, including
   - *./miccai2023/dataset/atlases*
 - **Registrated set (A to F)**	
   - *./miccai2023/dataset/registrated*
-  - 
+  
 The first two data sets are publicly available
 
 ## Training

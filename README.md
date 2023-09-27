@@ -34,6 +34,8 @@ python ./code/asc.py --root_path_t './dataset/feta2021' --root_path_s './dataset
 
 python test.py --root_path './dataset/feta2021' --save_mode_path './paramas/asc/iter_num_1900_dice_787.pth'
 
+The model parameter can be obtained in "parameter"
+
 ### Trained model weights
 
 Put the trained model weights in **./params**, including

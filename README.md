@@ -22,6 +22,7 @@ Put the data in **./dataset**, including
 - **FeTA2021 set**	
   - *./miccai2023/dataset/feta2021*
   - https://feta.grand-challenge.org/feta-2021/
+  - or you can find dataset on this web: https://zenodo.org/records/4541606
 - **Atlases set**	
   - *./miccai2023/dataset/atlases*
   - [1] Gholipour, Ali, et al. "A normative spatiotemporal MRI atlas of the fetal brain for automatic segmentation and analysis of early brain growth." Scientific reports 7.1 (2017): 1-13.

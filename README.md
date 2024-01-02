@@ -4,11 +4,11 @@ This is the official implementation of [ASC: Appearance and Structure Consistenc
 
 ## Table of Contents
 
-- [Prerequisite](#Prerequisite)
-- [Data Preparation](#Data Preparation)
-- [Training](#Training)
-- [Testing & Predictions](#Testing & Predictions)
-- [Trained model weights](#Trained model weights)
+- [Prerequisite](#drerequisite)
+- [Data Preparation](#data-preparation)
+- [Training](#training)
+- [Testing & Predictions](#testing-&-Predictions)
+- [Trained model weights](#trained-model-weights)
 
 ## Prerequisite
 

@@ -1,4 +1,6 @@
-## MICCAI2023-ASC: Appearance and Structure Consistency for Unsupervised Domain Adaptation in Fetal Brain MRI Segmentation
+# VAP-Former
+
+This is the official implementation of [ASC: Appearance and Structure Consistency for Unsupervised Domain Adaptation in Fetal Brain MRI Segmentation](https://arxiv.org/abs/2310.14172) at MICCAI-2023
 
 TODO
 

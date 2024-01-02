@@ -1,8 +1,14 @@
-# VAP-Former
+# ASC
 
 This is the official implementation of [ASC: Appearance and Structure Consistency for Unsupervised Domain Adaptation in Fetal Brain MRI Segmentation](https://arxiv.org/abs/2310.14172) at MICCAI-2023
 
-TODO
+## Table of Contents
+
+- [Prerequisite](#Prerequisite)
+- [Data Preparation](#Data Preparation)
+- [Training](#Training)
+- [Testing & Predictions](#Testing & Predictions)
+- [Trained model weights](#Trained model weights)
 
 ## Prerequisite
 

@@ -25,7 +25,7 @@ The required packages
 
 ## Data Preparation
 
-Put the data in **./dataset**, including
+Put the data in **./dataset/image** and **./dataset/label**, including
 
 - **FeTA2021 set**	
   - *./miccai2023/dataset/feta2021*
@@ -42,6 +42,7 @@ Put the data in **./dataset**, including
   
 The first two data sets are publicly available
 
+You should also prepare train.list and test.list files (only write data file names) and put them in **./dataset**.
 ## Training
 
 python ./code/asc.py --root_path_t './dataset/feta2021' --root_path_s './dataset/atlases' --seed 1337 --consistency 200 --consistency_rampup 100

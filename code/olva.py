@@ -200,7 +200,7 @@ def train(args,snapshot_path,exp_path):
             loss_dice = dice_loss(outputs_soft_s, label_batch_s)
             loss_align = align_loss(feature_domain_s,
                                     feature_domain_t, gamma_W)
-            loss = loss_dice + loss_align * 0.1 + vae_loss + vae_loss
+            loss = loss_dice + loss_align * 0.1 + vae_loss + vae_loss2
             #
             optimizer.zero_grad()
             loss.backward()
